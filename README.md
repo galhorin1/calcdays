@@ -1,2 +1,2 @@
 # calcdays
-calculate days to H/M per user input
+calculate days to H/M per user input python
